@@ -1,13 +1,3 @@
-<!-- # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
-
-
 # AstroPic
 
 Welcome to **AstroPic** – a web app that brings you NASA's *Astronomy Picture of the Day (APOD)* right to your screen. Whether you're a space enthusiast or just curious, AstroPic lets you enjoy a daily glimpse of the cosmos with a clean and intuitive interface.
