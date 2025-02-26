@@ -29,4 +29,4 @@ If you'd like to run AstroPic locally or contribute to the project, follow these
 
 1. **Clone the Repository:**
    ```bash
-   
+   https://github.com/FernandesReon/AstroPic.git
