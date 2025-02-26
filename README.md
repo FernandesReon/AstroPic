@@ -21,7 +21,7 @@ AstroPic sends a request to NASA's APOD API to get the latest image and its desc
 
 ### For Non-Technical Users
 
-Simply visit our live site (link here) and enjoy the daily space wonder without any setup!
+Simply visit our live site [here](https://cosmoview.netlify.app/) and enjoy the daily space wonder without any setup!
 
 ### For Developers
 
